@@ -3,7 +3,8 @@ EFI for ASUS H110I Plus - Monterey
 
 make sure you edit:
 
-SystemSerialNumber
-SystemUUID
+1) SystemSerialNumber
+
+2) SystemUUID
 
 
